@@ -1,7 +1,5 @@
 # AASTU CGI Club — Website Requirements
 
-**Club:** CGI Club 
-
 **Version:** 1.0 
 
 **Date:** March 2026
@@ -116,3 +114,4 @@ Keep it simple — no video hosting, just links and embeds.
 - Hosting should be free/low-cost (Vercel, Render, etc.)
 - Non-technical club admins should be able to manage content easily
 - Keep it simple for v1 — features can be added over time
+
